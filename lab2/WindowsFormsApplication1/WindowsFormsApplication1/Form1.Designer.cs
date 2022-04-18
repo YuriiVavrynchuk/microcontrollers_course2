@@ -57,7 +57,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(116, 49);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Activate";
+            this.button1.Text = "Algorithm 1";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Visible = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
@@ -112,13 +112,13 @@
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.Pink;
+            this.button2.BackColor = System.Drawing.Color.Chartreuse;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.button2.Location = new System.Drawing.Point(262, 69);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(116, 49);
             this.button2.TabIndex = 20;
-            this.button2.Text = "Deactivate";
+            this.button2.Text = "Algorithm 2";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Visible = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
